@@ -1,0 +1,12 @@
+[project]
+name = "python_json_logger"
+version = "0.1.0"
+description = "Text and JSON (NDJSON) logging with daily rotation and JSON log reader."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/SBRDIGITAL/python_json_logger"
+Source = "https://github.com/SBRDIGITAL/python_json_logger"

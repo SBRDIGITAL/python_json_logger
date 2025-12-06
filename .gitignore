@@ -1,0 +1,80 @@
+### Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.py[co]
+*.py[oc]
+*$py.class
+
+### Build / distribution artifacts
+build/
+dist/
+wheelhouse/
+*.egg-info/
+*.egg
+
+### Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+### Logs (runtime)
+logs/
+*.log
+*.ndjson
+*.jsonl
+
+### OS / IDE / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+### Jupyter
+.ipynb_checkpoints/
+
+### Temporary / cache
+tmp/
+temp/
+*.tmp
+.cache/
+
+### Test and coverage tools
+.pytest_cache/
+.tox/
+.nox/
+.hypothesis/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+nosetests.xml
+*.cover
+*.lcov
+
+### Type checkers / static analysis
+.mypy_cache/
+.dmypy.json
+.pytype/
+.pyre/
+.pyright/
+cython_debug/
+
+### Documentation build output
+docs/_build/
+site/
+
+### Environment / secrets
+.env
+.env.*
+.envrc
+
+### IDE / project settings
+.ropeproject/
+.spyproject
+.spyderproject
