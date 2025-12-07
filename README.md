@@ -130,7 +130,7 @@ for record in records:
 Пример для Windows + bash:
 
 ```bash
-cd loggin_to_json
+cd python_json_logger
 python -m venv .venv
 source .venv/Scripts/activate
 python -m pip install --upgrade pip
@@ -142,7 +142,7 @@ python -m pip install --upgrade pip
 как работают оба логгера и `JsonLogReader`:
 
 ```bash
-cd loggin_to_json
+cd python_json_logger
 python main.py
 ```
 
@@ -166,7 +166,7 @@ python main.py
 ### Структура каталогов
 
 ```text
-loggin_to_json/
+python_json_logger/
 ├─ main.py                         # Точка входа, демонстрация
 ├─ app/
 │  ├─ __init__.py                  # Корневой пакет
@@ -215,7 +215,7 @@ loggin_to_json/
 Запуск тестов (если установлен `pytest`):
 
 ```bash
-cd loggin_to_json
+cd python_json_logger
 pytest
 ```
 
