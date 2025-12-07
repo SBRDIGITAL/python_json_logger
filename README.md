@@ -1,5 +1,9 @@
 # SBR DIGITAL Logging to JSON
 
+![Python Version](https://img.shields.io/badge/python-3.12%2B-3776AB?logo=python&logoColor=white)
+![License: MIT](https://img.shields.io/badge/license-MIT-success)
+![Log Format](https://img.shields.io/badge/logs-NDJSON-orange)
+
 ## Навигация
 - [📚 Обзор](#обзор)
 - [✨ Возможности](#возможности)
